@@ -1,6 +1,6 @@
 {
     "Ticket ID": "B-0001",
-    "Title": "",
+    "Title": "Worksapp",
     "Assignee": "",
     "Description": "",
     "Status": "Backlog",
@@ -11,5 +11,5 @@
     "Links": [],
     "Label": "Bug",
     "Priority": "Medium",
-    "Story Points": 0
+    "Story Points": "0"
 }
