@@ -3,7 +3,7 @@
     "Title": "Load Notifications From WorksManager",
     "Assignee": "Juhi",
     "Description": "Notification ticket data",
-    "Status": "In Review",
+    "Status": "Deferred",
     "Created By": "Aditya",
     "Created At": "2026-09-01T12:20:40.995887",
     "Due Date": "2026-09-01T12:20:40.995887",
@@ -11,5 +11,5 @@
     "Links": [],
     "Label": "Issue",
     "Priority": "Low",
-    "Story Points": "0"
+    "Story Points": 0
 }
