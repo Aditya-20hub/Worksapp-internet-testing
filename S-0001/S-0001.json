@@ -1,6 +1,6 @@
 {
     "Ticket ID": "S-0001",
-    "Title": "",
+    "Title": "PR App",
     "Assignee": "",
     "Description": "",
     "Status": "Backlog",
@@ -11,5 +11,5 @@
     "Links": [],
     "Label": "Story",
     "Priority": "Medium",
-    "Story Points": 0
+    "Story Points": "0"
 }
