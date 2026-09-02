@@ -1,6 +1,6 @@
 {
     "Ticket ID": "I-0003",
-    "Title": "",
+    "Title": "Fix Notification Sorting",
     "Assignee": "",
     "Description": "",
     "Status": "Backlog",
@@ -11,5 +11,5 @@
     "Links": [],
     "Label": "Issue",
     "Priority": "Medium",
-    "Story Points": 0
+    "Story Points": "0"
 }
