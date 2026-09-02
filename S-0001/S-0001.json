@@ -3,7 +3,7 @@
     "Title": "PR App",
     "Assignee": "Samruddhi",
     "Description": "Pr Description",
-    "Status": "Done",
+    "Status": "To Do",
     "Created By": "Samruddhi",
     "Created At": "2026-09-02T11:33:41.188131",
     "Due Date": "2026-09-02T11:33:41.188379",
@@ -11,5 +11,5 @@
     "Links": [],
     "Label": "Story",
     "Priority": "Low",
-    "Story Points": "0"
+    "Story Points": 0
 }
