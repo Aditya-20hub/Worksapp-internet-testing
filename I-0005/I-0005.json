@@ -1,6 +1,6 @@
 {
     "Ticket ID": "I-0005",
-    "Title": "",
+    "Title": "Test Notification Screen With Repo Tickets",
     "Assignee": "",
     "Description": "",
     "Status": "Backlog",
@@ -13,5 +13,5 @@
     ],
     "Label": "Issue",
     "Priority": "Medium",
-    "Story Points": 0
+    "Story Points": "0"
 }
