@@ -1,0 +1,17 @@
+{
+    "Ticket ID": "I-0005",
+    "Title": "",
+    "Assignee": "",
+    "Description": "",
+    "Status": "Backlog",
+    "Created By": "Samruddhi",
+    "Created At": "2026-09-02T12:26:44.576297",
+    "Due Date": "2026-09-02T12:26:44.576329",
+    "Group": "",
+    "Links": [
+        "B-0001"
+    ],
+    "Label": "Issue",
+    "Priority": "Medium",
+    "Story Points": 0
+}
