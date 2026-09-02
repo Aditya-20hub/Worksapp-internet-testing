@@ -1,6 +1,6 @@
 {
     "Ticket ID": "S-0002",
-    "Title": "",
+    "Title": "Handle Visited Notifications",
     "Assignee": "",
     "Description": "",
     "Status": "Backlog",
@@ -13,5 +13,5 @@
     ],
     "Label": "Story",
     "Priority": "Medium",
-    "Story Points": 0
+    "Story Points": "0"
 }
