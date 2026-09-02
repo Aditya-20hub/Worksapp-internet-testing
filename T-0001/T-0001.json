@@ -1,6 +1,6 @@
 {
     "Ticket ID": "T-0001",
-    "Title": "",
+    "Title": "Update Home Screen Notifications",
     "Assignee": "",
     "Description": "",
     "Status": "Backlog",
@@ -11,5 +11,5 @@
     "Links": [],
     "Label": "Task",
     "Priority": "Medium",
-    "Story Points": 0
+    "Story Points": "0"
 }
