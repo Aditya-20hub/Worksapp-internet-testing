@@ -22,7 +22,17 @@
                 "email": "samu@gmail.com"
             },
             "Created At": "2026-09-05T14:46:59.508723",
-            "Replies": []
+            "Replies": [
+                {
+                    "Reply": "Change comment ID.",
+                    "Created By": {
+                        "name": "Samruddhi",
+                        "phone": "9764262906",
+                        "email": "samu@gmail.com"
+                    },
+                    "Created At": "2026-09-05T14:48:40.786419"
+                }
+            ]
         }
     ]
 }
