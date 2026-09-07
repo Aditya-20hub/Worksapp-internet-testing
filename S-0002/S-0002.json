@@ -45,7 +45,17 @@
                 "email": "samu@gmail.com"
             },
             "Created At": "2026-09-07T13:01:15.441924",
-            "Replies": []
+            "Replies": [
+                {
+                    "Reply": "Changed",
+                    "Created By": {
+                        "name": "Samruddhi",
+                        "phone": "9764262906",
+                        "email": "samu@gmail.com"
+                    },
+                    "Created At": "2026-09-07T13:01:36.222530"
+                }
+            ]
         }
     ]
 }
