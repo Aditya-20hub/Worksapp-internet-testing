@@ -2,7 +2,7 @@
     "Ticket ID": "I-0003",
     "Title": "Fix Notification Sorting",
     "Assignee": "Priti",
-    "Description": "Fix notification ordering",
+    "Description": "Added the feature \"Fix notification ordering\".",
     "Status": "Done",
     "Created By": "Aditya",
     "Created At": "2026-09-01T12:20:26.792134",
@@ -11,5 +11,6 @@
     "Links": [],
     "Label": "Issue",
     "Priority": "Medium",
-    "Story Points": 0
+    "Story Points": "0",
+    "Comments": []
 }
