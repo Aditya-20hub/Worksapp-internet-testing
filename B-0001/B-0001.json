@@ -11,6 +11,18 @@
     "Links": [],
     "Label": "Bug",
     "Priority": "Medium",
-    "Story Points": "0",
-    "Comments": []
+    "Story Points": 0,
+    "Comments": [
+        {
+            "Comment ID": "C1",
+            "Comment": ":q",
+            "Created By": {
+                "name": "Samruddhi",
+                "phone": "9764262906",
+                "email": "samu@gmail.com"
+            },
+            "Created At": "2026-09-08T13:12:16.476936",
+            "Replies": []
+        }
+    ]
 }
