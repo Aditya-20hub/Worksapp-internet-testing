@@ -2,7 +2,7 @@
     "Ticket ID": "S-0001",
     "Title": "PR App",
     "Assignee": "Samruddhi",
-    "Description": "Added description",
+    "Description": "Added  the description",
     "Status": "To Do",
     "Created By": "Samruddhi",
     "Created At": "2026-09-02T11:33:41.188131",
@@ -11,6 +11,6 @@
     "Links": [],
     "Label": "Story",
     "Priority": "High",
-    "Story Points": "0",
+    "Story Points": 0,
     "Comments": []
 }
